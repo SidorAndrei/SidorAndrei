@@ -18,6 +18,8 @@ I want to be honest, I still have technologies to learn and skills to master, on
 
 <img src="https://raw.githubusercontent.com/SidorAndrei/SidorAndrei/master/assets/Python-logo-notext.svg" height="auto" width="40">
 
+<img src="https://raw.githubusercontent.com/SidorAndrei/SidorAndrei/master/assets/Flask_logo.svg" height="auto" width="40">
+
 <img src="https://raw.githubusercontent.com/SidorAndrei/SidorAndrei/master/assets/javascript-plain.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/SidorAndrei/SidorAndrei/master/assets/css3-original.svg" height="auto" width="40">
