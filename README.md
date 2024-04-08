@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Andrei!
 
-I am a junior Full Stack Developer. Fresh out from the best IT bootcamp in Romania, that is Codecool. <br>
+I am a Full Stack Developer.<br>
 I spent an entire year(2021 - 2022) learning how to properly code and thanks to Codecool I became proficient in many technologies. Over the past year I worked in teams and also on solo projects and became comfortable working with Java, Spring Boot, Python, Javascript, React, CSS, Postgresql, Docker, Git and then some. 
 <br>I developed a strong sense of algorithmic thinking, the OOP concepts and principles and always cared about having a clean code (easy to read == easy to maintain).
 <br>My main projects are here, I will be happy to talk about them if given the chance.
@@ -43,17 +43,15 @@ I want to be honest, I still have technologies to learn and skills to master, on
 
 ### :technologist: I'm currently working on:
 
-- My React, Spring Framework and Docker skills :fire:
+- My Angular, Spring Framework and Docker skills :fire:
 - My Pet Project :muscle:
 
 ### :nerd_face: I'm currently learning:
 
 - Adobe Illustrator
-- TypeScript
 
 ### :thinking: I want to learn:
 
-- AngularJS
 - Kotlin
 - C++
 - C# & .NET Core
