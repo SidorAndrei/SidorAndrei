@@ -48,6 +48,7 @@ I want to be honest, I still have technologies to learn and skills to master, on
 
 ### :nerd_face: I'm currently learning:
 
+- Linux
 - Adobe Illustrator
 
 ### :thinking: I want to learn:
@@ -59,7 +60,7 @@ I want to be honest, I still have technologies to learn and skills to master, on
 
 ### Outside of coding I enjoy:
 
-- Motorcycles 🏍️
+- Travelling
 - Driving :car:
 - Playing video games :video_game:
 - Billiard :8ball:
